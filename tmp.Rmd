@@ -1,6 +1,8 @@
 ---
-title: "tmp"
-author: "Daniel Anderson"
+title: "A reasonably good title"
+author: 
+ - "Daniel Anderson"
+ - "Joshua Rosenberg"
 date: "4/7/2019"
 output: html_document
 ---
